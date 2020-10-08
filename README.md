@@ -1,4 +1,5 @@
 Your Project
+This is Project number 2 I'll be making an animated poster :D
 ============
 
 ### ← README.md
